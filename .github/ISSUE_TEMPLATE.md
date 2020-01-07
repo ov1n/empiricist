@@ -1,10 +1,8 @@
----
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
+## Bug report
 
----
+| name | about | title | labels |
+| --- | --- |--- | --- |
+| Bug report | Create a report to help us improve	 | |  |  |
 
 **Describe the bug**
 A clear and concise description of what the bug is.
@@ -29,3 +27,22 @@ If applicable, add screenshots to help explain your problem.
 
 **Additional context**
 Add any other context about the problem here.
+
+## Feature request
+
+| name | about | title | labels | assignees |
+| --- | --- |--- | --- | --- |
+| Feature request | Suggest an idea for this project	 | |  |  |
+
+
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I suggest this feature.....
+
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
+
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
+
+**Additional context**
+Add any other context or screenshots about the feature request here.
